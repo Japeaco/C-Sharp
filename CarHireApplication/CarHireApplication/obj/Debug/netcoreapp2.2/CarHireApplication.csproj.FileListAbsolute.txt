@@ -1,0 +1,11 @@
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\bin\Debug\netcoreapp2.2\CarHireApplication.deps.json
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\bin\Debug\netcoreapp2.2\CarHireApplication.runtimeconfig.json
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\bin\Debug\netcoreapp2.2\CarHireApplication.runtimeconfig.dev.json
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\bin\Debug\netcoreapp2.2\CarHireApplication.dll
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\bin\Debug\netcoreapp2.2\CarHireApplication.pdb
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\obj\Debug\netcoreapp2.2\CarHireApplication.csprojAssemblyReference.cache
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\obj\Debug\netcoreapp2.2\CarHireApplication.csproj.CoreCompileInputs.cache
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\obj\Debug\netcoreapp2.2\CarHireApplication.AssemblyInfoInputs.cache
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\obj\Debug\netcoreapp2.2\CarHireApplication.AssemblyInfo.cs
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\obj\Debug\netcoreapp2.2\CarHireApplication.dll
+C:\Users\japea\source\repos\CarHireApplication\CarHireApplication\obj\Debug\netcoreapp2.2\CarHireApplication.pdb
